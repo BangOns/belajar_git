@@ -3,8 +3,7 @@ script 22
 script 4 
 script 5
 scrips ww
-<<<<<<< HEAD
+
 dssaaaee
-=======
 cweeww
->>>>>>> 5d8a5dfd84ffc331edcd0d57f1f8932b00c6c1b8
+
