@@ -3,8 +3,6 @@ script 22
 script 4 
 script 5
 scrips ww
-<<<<<<< HEAD
-dssaaaee
-=======
+asssssuuuuu
 cweeww
 
